@@ -12,7 +12,6 @@ Permite visualizar un listado de artículos, agregarlos al carrito y calcular el
 4. [Contenido de la Página](#-contenido-de-la-página)
 5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
 6. [Estructura del Proyecto](#-estructura-del-proyecto)
-7. [Vista Previa](#-vista-previa)
 
 ---
 
@@ -67,6 +66,7 @@ La página está compuesta por las siguientes secciones:
 - **Git & GitHub:** control de versiones y hosting del proyecto.  
 
 ---
+
 
 
 
